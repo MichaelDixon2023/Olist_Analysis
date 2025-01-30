@@ -1,2 +1,2 @@
 # Olist_Analysis
-An overview of the sales data from the Olist e commerce platform from 2016-2018. 
+An overview of the sales data from the Olist e commerce platform from 2016-2018. The main goal of the project was to determine which factors would increase sales for a business like Olist. Within the project are two jupyter notebooks, one containing my exploratory data analysis and one containing my modeling work. The data used is saved both as .csv files and the SQLite database I created for them. Finally, there is a Power BI report targeted at hypothetical non-technical leadership at Olist. 
